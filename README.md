@@ -2,4 +2,4 @@
 
 There are no security settings on this website whatsoever. You can upload any photo, and anywone with the link can see it. Made this project when I was learning about Firebase's CRUD operations. 
 
-The site looks okayish on a desktop and HORRIBLE on a phone
+
